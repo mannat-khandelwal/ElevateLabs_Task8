@@ -1,0 +1,25 @@
+A VPN (Virtual Private Network) creates an encrypted tunnel from your device to a VPN server. Your ISP and people on the local network can see you’re connected to a VPN, but can’t see which sites you visit; websites see the VPN server’s IP, not yours.
+
+VPN benefits & limitations
+
+Benefits
+
+1) Encrypts device-to-VPN traffic: protects you on public Wi-Fi from local eavesdroppers/rogue APs.
+
+2) Masks your IP/location: websites and services see the VPN server’s IP, improving privacy and reducing tracking tied to your home IP.
+
+3) Prevents ISP-level snooping: your ISP can see you’re connected to a VPN, not which sites you visit.
+
+4) Bypasses some geo-restrictions/censorship: depending on provider and site blocks.
+
+Limitations
+
+1) Not total anonymity: the VPN provider can technically see your exit traffic; you must trust them. Use reputable providers and stick to HTTPS.
+
+2) Performance trade-offs: higher latency, lower speed—especially on congested/remote servers or free tiers.
+
+3) Service blocking: some sites block known VPN IPs; banking apps may flag VPNs.
+
+4) Leaks/misconfig: WebRTC, IPv6, or DNS misconfigurations can expose your real IP if protections aren’t enabled.
+
+5) Legal/ToS boundaries: lawful use only; some activities (e.g., certain P2P) may violate policies or laws in your jurisdiction.
