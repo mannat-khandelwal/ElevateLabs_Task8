@@ -5,8 +5,8 @@
 This document summarizes the setup, use, and evaluation of **Proton VPN Free Plan** for secure internet browsing and IP masking.
 
 ## Tools Used
-ProtonVPN (Free Tier)
-Website: https://whatismyipaddress.com
+1. ProtonVPN (Free Tier)
+2. Website: https://whatismyipaddress.com
 
 ## Steps Performed
 
